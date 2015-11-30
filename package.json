@@ -1,0 +1,12 @@
+{
+	"name": "thoughtLeadering",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha test.js"
+	},
+	"keywords": [],
+	"author": "James Macfie <james@macfie.co.nz> (http://jamesmacfie.com/)",
+	"license": "ISC"
+}
