@@ -1,6 +1,6 @@
 {
-	"name": "thoughtLeadering",
-	"version": "1.0.0",
+	"name": "thoughtleadering",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
