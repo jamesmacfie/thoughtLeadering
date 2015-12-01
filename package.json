@@ -1,12 +1,16 @@
 {
-	"name": "thoughtleadering",
-	"version": "1.0.2",
-	"description": "This module provides unprecedented access to the mind of Walter Rumsby. Be amazed at the depth and analysis that is provided by a single person.",
-	"main": "index.js",
-	"scripts": {
-		"test": "mocha test.js"
-	},
-	"keywords": [],
-	"author": "James Macfie <james@macfie.co.nz> (http://jamesmacfie.com/)",
-	"license": "ISC"
+  "name": "thoughtleadering",
+  "version": "1.0.3",
+  "description": "This module provides unprecedented access to the mind of Walter Rumsby. Be amazed at the depth and analysis that is provided by a single person.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [],
+  "author": "James Macfie <james@macfie.co.nz> (http://jamesmacfie.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
 }
